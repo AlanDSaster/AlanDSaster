@@ -5,4 +5,4 @@
 <h3>Amateur experience:</h3>
 <p>C++, Java
 <h3>Github Stats</h3>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlanDSaster&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src=https://github-readme-stats.vercel.app/api?username=AlanDSaster&show_icons=true&theme=dark href=https://github.com/anuraghazra/github-readme-stats>
