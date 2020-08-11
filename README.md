@@ -1,5 +1,5 @@
 <h3>About</h3>
-<p>I'm just trying to program shortcuts to solve my problems. I learn best by doing.
+<p>I'm just trying to program my problems away.
 <p><h3>Professional experience:</h3>
 <p>C#, VisualBasic, Powershell, HTML, JavaScript
 <h3>Amateur experience:</h3>
