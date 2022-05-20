@@ -49,72 +49,70 @@
 				Data Extraction, Input, and Management
 			</li>
 			<li>
+
+			<li>
+				HTML, CSS, JavaScript for web design.
+			</li>
+			<li>
+				NodeJS for advanced web design and server-side features.
+			</li>
+			<li>
+				Using Electron to create a stand-alone application from HTML, CSS, and JavaScript
+			</li>
+			<li>
+				Microsoft Excel
 				<ul>
 					<li>
-						HTML, CSS, JavaScript for web design.
+						Navigating through Workbooks and Spreadsheets
 					</li>
 					<li>
-						NodeJS for advanced web design and server-side features.
+						Cell Formatting
 					</li>
 					<li>
-						Using Electron to create a stand-alone application from HTML, CSS, and JavaScript
+						Cell Data Types
 					</li>
 					<li>
-						Microsoft Excel
+						Cell Formulas (Beginner, Intermediate, and Advanced)
 						<ul>
 							<li>
-								Navigating through Workbooks and Spreadsheets
+								Simple mathematics with comparison operators
 							</li>
 							<li>
-								Cell Formatting
+								Complex and nested formulas with error handling (removing those pesky #N/A and #NAME errors)
 							</li>
 							<li>
-								Cell Data Types
+								VLookup / HLookup / Index / Match
 							</li>
 							<li>
-								Cell Formulas (Beginner, Intermediate, and Advanced)
-								<ul>
-									<li>
-										Simple mathematics with comparison operators
-									</li>
-									<li>
-										Complex and nested formulas with error handling (removing those pesky #N/A and #NAME errors)
-									</li>
-									<li>
-										VLookup / HLookup / Index / Match
-									</li>
-									<li>
-										Switch
-									</li>
-									<li>
-										Etcetera...
-									</li>
-								</ul>
+								Switch
 							</li>
 							<li>
-								.CSV imports
-							</li>
-							<li>
-								Macro Design / Visual Basic Programming
+								Etcetera...
 							</li>
 						</ul>
 					</li>
 					<li>
-						Atom Text Editor
-						<ul>
-							<li>
-								Basic Usage
-							</li>
-							<li>
-								Advanced Find and Replace using Regular Expressions for pattern matching.
-							</li>
-							<li>
-								Installing plugins (including suggested plugins for web design)
-							</li>
-							<li>
-								Using the liveserver plugin for web design.
-							</li>
-						</ul>
+						.CSV imports
+					</li>
+					<li>
+						Macro Design / Visual Basic Programming
+					</li>
+				</ul>
+			</li>
+			<li>
+				Atom Text Editor
+				<ul>
+					<li>
+						Basic Usage
+					</li>
+					<li>
+						Advanced Find and Replace using Regular Expressions for pattern matching.
+					</li>
+					<li>
+						Installing plugins (including suggested plugins for web design)
+					</li>
+					<li>
+						Using the liveserver plugin for web design.
 					</li>
 				</ul>
 			</li>
