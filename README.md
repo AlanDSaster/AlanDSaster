@@ -4,13 +4,13 @@
 <div>
 	<ul>
 		<li>
-			📧<br /><a href='mailto:alandsaster@outlook.com'>alandsaster@outlook.com</a>
+			📧 : <a href='mailto:alandsaster@outlook.com'>alandsaster@outlook.com</a>
 		</li class='noselect'>
 		<li class='noselect'>
-			💻<br /><a href='github.com/AlanDSaster'>github.com/AlanDSaster</a>
+			💻 : <a href='github.com/AlanDSaster'>github.com/AlanDSaster</a>
 		</li>
 		<li class='noselect'>
-			📞<br /><a href='tel:9892516600'>989-251-6600</a>
+			📞 : <a href='tel:9892516600'>989-251-6600</a>
 		</li>
 	</ul>
 </div>
