@@ -1,6 +1,7 @@
 <h1>DSaster Designs</h1>
+
 <h2>Web Design, Programming, Tutoring</h2>
-<hr />
+
 <div>
 	<a href=https://github.com/anuraghazra/github-readme-stats>
 		<img src='https://github-readme-stats.vercel.app/api?username=AlanDSaster&show_icons=true&theme=dark'>
@@ -14,7 +15,7 @@
 </div>
 
 <h1>Services Provided</h1>
-<hr />
+
 <ul>
 	<li>
 		<b>Web Design</b>
