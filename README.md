@@ -1,18 +1,6 @@
 <h1>DSaster Designs</h1>
 <h2>Web Design, Programming, Tutoring</h2>
 <hr />
-<ul>
-	<li>
-		📧 : <a href='mailto:alandsaster@outlook.com'>alandsaster@outlook.com</a>
-	</li class='noselect'>
-	<li class='noselect'>
-		💻 : <a href='github.com/AlanDSaster'>github.com/AlanDSaster</a>
-	</li>
-	<li class='noselect'>
-		📞 : <a href='tel:9892516600'>989-251-6600</a>
-	</li>
-</ul>
-
 <div>
 	<a href=https://github.com/anuraghazra/github-readme-stats><img align=left src=https://github-readme-stats.vercel.app/api?username=AlanDSaster&show_icons=true&theme=dark></a>
 </div>
