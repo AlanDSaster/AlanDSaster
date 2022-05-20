@@ -12,6 +12,15 @@
 		📞 : <a href='tel:9892516600'>989-251-6600</a>
 	</li>
 </ul>
+
+<div>
+	<a href=https://github.com/anuraghazra/github-readme-stats><img align=left src=https://github-readme-stats.vercel.app/api?username=AlanDSaster&show_icons=true&theme=dark></a>
+</div>
+
+<div>
+	<a href=https://github.com/anuraghazra/github-readme-stats><img align=left src=https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDSaster&theme=dark></a>
+</div>
+
 <h1>Services Provided</h1>
 <hr />
 <ul>
@@ -116,11 +125,3 @@
 		</ul>
 	</li>
 </ul>
-
-<div>
-	<a href=https://github.com/anuraghazra/github-readme-stats><img align=left src=https://github-readme-stats.vercel.app/api?username=AlanDSaster&show_icons=true&theme=dark></a>
-</div>
-
-<div>
-	<a href=https://github.com/anuraghazra/github-readme-stats><img align=left src=https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDSaster&theme=dark></a>
-</div>
