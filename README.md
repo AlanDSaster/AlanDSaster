@@ -1,18 +1,4 @@
-<h1>DSaster Designs</h1>
-
-<h2>Web Design, Programming, Tutoring</h2>
-
-<div>
-	<a href=https://github.com/anuraghazra/github-readme-stats>
-		<img src='https://github-readme-stats.vercel.app/api?username=AlanDSaster&show_icons=true&theme=dark'>
-	</a>
-</div>
-
-<div>
-	<a href=https://github.com/anuraghazra/github-readme-stats>
-		<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDSaster&theme=dark'>
-	</a>
-</div>
+<h1>DSaster Designs - Web Design, Programming, Tutoring</h1>
 
 <h1>Services Provided</h1>
 
@@ -118,3 +104,17 @@
 		</ul>
 	</li>
 </ul>
+
+<h1>Statistics</h1>
+
+<div>
+	<a href=https://github.com/anuraghazra/github-readme-stats>
+		<img src='https://github-readme-stats.vercel.app/api?username=AlanDSaster&show_icons=true&theme=dark'>
+	</a>
+</div>
+
+<div>
+	<a href=https://github.com/anuraghazra/github-readme-stats>
+		<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDSaster&theme=dark'>
+	</a>
+</div>
