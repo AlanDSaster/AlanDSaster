@@ -2,11 +2,15 @@
 <h2>Web Design, Programming, Tutoring</h2>
 <hr />
 <div>
-	<a href=https://github.com/anuraghazra/github-readme-stats><img align=left src=https://github-readme-stats.vercel.app/api?username=AlanDSaster&show_icons=true&theme=dark></a>
+	<a href=https://github.com/anuraghazra/github-readme-stats>
+		<img src='https://github-readme-stats.vercel.app/api?username=AlanDSaster&show_icons=true&theme=dark'>
+	</a>
 </div>
 
 <div>
-	<a href=https://github.com/anuraghazra/github-readme-stats><img align=left src=https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDSaster&theme=dark></a>
+	<a href=https://github.com/anuraghazra/github-readme-stats>
+		<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDSaster&theme=dark'>
+	</a>
 </div>
 
 <h1>Services Provided</h1>
